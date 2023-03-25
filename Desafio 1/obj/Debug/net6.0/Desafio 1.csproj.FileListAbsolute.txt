@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\bin\Debug\net6.0\Desafio 1.exe
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\bin\Debug\net6.0\Desafio 1.deps.json
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\bin\Debug\net6.0\Desafio 1.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\bin\Debug\net6.0\Desafio 1.dll
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\bin\Debug\net6.0\Desafio 1.pdb
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.dll
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\refint\Desafio 1.dll
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.pdb
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\Desafio 1.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\Lab 3 Desafios 1\Desafio 1\obj\Debug\net6.0\ref\Desafio 1.dll
